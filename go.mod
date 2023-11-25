@@ -1,4 +1,4 @@
-module github.com/monebag/monorepo-diff-buildkite-plugin
+module github.com/stephanieatte/monorepo-diff-buildkite-plugin
 
 go 1.19
 
