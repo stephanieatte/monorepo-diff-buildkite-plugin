@@ -1,5 +1,7 @@
+# signifies that the file belongs to the main 
 package main
 
+# imports various packages (bytes, fmt, os, os/exec, and github.com/sirupsen/logrus)
 import (
 	"bytes"
 	"fmt"
